@@ -1,0 +1,50 @@
+.video_content {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    
+}
+
+.video_title {
+    font-size: 38px;
+    color: rgb(236,134, 0);
+}
+.video_cl {
+    color: rgb(236,134, 0);
+    font-size: 26px;
+    display: inline-block;
+    align-self: flex-start;
+    
+    
+}
+.video_mosque {
+    width: 50%;
+    height: 500px;
+    margin-bottom: 15px;
+}
+.video_mosque1 {
+    width: 100%;
+    height: 100%;
+}
+.video_text {
+    font-size: 20px;
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+    text-align: justify;
+}
+
+.text_news {
+     margin: 0 auto;
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 120%;
+
+}
+.txt_abror{
+    font-size: 20px;
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+    text-align: justify;
+    font-weight: bold;
+}
