@@ -1,5 +1,5 @@
 import React, { Component } from 'react'
-import donate from '../images/about_zangiota.mp4'
+import donate from '../images/z_movie.mp4'
 // import donate1 from '../images/maruza2.mp4'
 import '../styles/video.css'
 
@@ -19,8 +19,8 @@ class video extends Component {
           <video className='video_mosque' controls >
             <source src={donate} type="video/mp4" />
           </video>
-          <p className='video_text'>Ma'lumot beruvchi shaxs Zangiota ziyoratgohi diniy hodimi: <span className='txt_abror'>Sunnatillayev Abror</span>.</p>
- 
+          {/* <p className='video_text'>Ma'lumot beruvchi shaxs Zangiota ziyoratgohi diniy hodimi: <span className='txt_abror'>Sunnatillayev Abror</span>.</p>
+  */}
           {/* <video className='video_mosque' controls >
             <source src={donate1} type="video/mp4" />
           </video> */}
