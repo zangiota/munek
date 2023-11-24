@@ -5,7 +5,7 @@ import AboutMosque from '../UzPageComponents/AboutMosque';
 //import Carouselgallery from '../UzPageComponents/gallery';
 //import CarouselEmployee from '../UzPageComponents/CarouselEmployee';
 import MosquSlider from '../UzPageComponents/slide';
-import PrayerTime from '../UzPageComponents/PrayerTime';
+//import PrayerTime from '../UzPageComponents/PrayerTime';
 import Footer from '../UzPageComponents/Footer';
 import Appvideo from '../UzPageComponents/video';
 import Mainvideo from '../UzPageComponents/donate';
@@ -23,7 +23,6 @@ const UzPage = () => {
             <Appvideo />
             <AboutMosque />
             <MosquSlider />
-            <PrayerTime />
             <Footer />
         </>
 
